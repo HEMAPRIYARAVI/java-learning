@@ -35,7 +35,15 @@ Just keeping track of how far I’ve come:
 | 3    | Arrays, basic DSA          | ⏳ Coming up |
 
 ---
+## Setup and Completed Tasks ✅
 
+Here’s what I’ve completed so far to get started:
+
+- **Installed Java and IntelliJ IDEA** on my system.
+- **Set up GitHub account** to track and share my code.
+- Created a **Trello board** to plan my learning tasks and milestones.
+- Organized my learning into **Trello lists** to stay focused on progress.
+  
 ## Notes
 
 This repo is mostly for me to stay consistent and motivated. Hoping to improve little by little every week.
