@@ -37,12 +37,21 @@ Just keeping track of how far I’ve come:
 ---
 ## Setup and Completed Tasks ✅
 
+## Setup and Completed Tasks ✅
+
 Here’s what I’ve completed so far to get started:
 
 - **Installed Java and IntelliJ IDEA** on my system.
 - **Set up GitHub account** to track and share my code.
 - Created a **Trello board** to plan my learning tasks and milestones.
 - Organized my learning into **Trello lists** to stay focused on progress.
+
+### 📅 May 4, 2025 – Progress Update
+- Wrote and ran my first Java program: `HelloWorld.java` 🎉  
+- Practiced using variables with different data types: `int`, `double`, `char`, and `boolean`.  
+- Successfully pushed my `/java_basics/HelloWorld.java` file to GitHub from IntelliJ IDEA.  
+- Feeling confident and ready to move deeper into Java Basics tomorrow!
+
   
 ## Notes
 
