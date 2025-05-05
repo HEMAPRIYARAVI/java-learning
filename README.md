@@ -51,6 +51,25 @@ Here’s what I’ve completed so far to get started:
 - Practiced using variables with different data types: `int`, `double`, `char`, and `boolean`.  
 - Successfully pushed my `/java_basics/HelloWorld.java` file to GitHub from IntelliJ IDEA.  
 - Feeling confident and ready to move deeper into Java Basics tomorrow!
+- 
+## Progress Log 📅
+
+| Week | Topics Covered            | Status |
+|------|----------------------------|--------|
+| 1    | Java syntax, variables     | ✅ Done |
+| 2    | Loops, functions, OOP      | 🕒 Ongoing |
+| 3    | Arrays, basic DSA          | ⏳ Coming up |
+| 4    | Java Data Types, Type Casting | ✅ Done (Today) |
+
+---
+
+### ✅ Date: [May 5, 2025]
+- Watched videos on Java Data Types, Type Casting, and Operators.
+- Practiced variable declarations and type casting in IntelliJ IDEA.
+- Created and committed `DataTypesDemo.java` to GitHub.
+
+---
+
 
   
 ## Notes
