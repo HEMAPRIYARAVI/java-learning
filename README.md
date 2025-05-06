@@ -68,7 +68,14 @@ Here’s what I’ve completed so far to get started:
 - Practiced variable declarations and type casting in IntelliJ IDEA.
 - Created and committed `DataTypesDemo.java` to GitHub.
 
----
+
+---✅ Date: [May 5, 2025]
+- Watched videos on Java Data Types, Type Casting, and Operators.
+- Practiced variable declarations and type casting in IntelliJ IDEA.
+- Created and committed DataTypesDemo.java to GitHub.
+- Started working on the Expense Tracker project.
+- Used Scanner to take user input for expenses and amounts.
+- Printed expenses and amounts formatted for the user.
 
 
   
