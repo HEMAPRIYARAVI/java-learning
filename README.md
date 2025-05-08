@@ -82,6 +82,8 @@ Here’s what I’ve completed so far to get started:
 - Covered: variable declaration, user input with Scanner, type casting, arithmetic & logical operators, ternary operator.
 - Completed all certification videos except the final "Functions in Java" one.
 - Created and committed PracticeBasics.java to GitHub with applied concepts.
+- Upgraded my ExpenseTracker project to support 3 expenses, total calculation, budget check, and status using ternary logic.
+- Committed ExpenseTrackerV2.java to GitHub.
 
 
   
