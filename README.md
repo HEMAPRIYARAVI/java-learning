@@ -77,6 +77,12 @@ Here’s what I’ve completed so far to get started:
 - Used Scanner to take user input for expenses and amounts.
 - Printed expenses and amounts formatted for the user.
 
+  ✅ Date: [May 7, 2025]
+- Practiced key Java concepts from Telusko playlist and Great Learning course.
+- Covered: variable declaration, user input with Scanner, type casting, arithmetic & logical operators, ternary operator.
+- Completed all certification videos except the final "Functions in Java" one.
+- Created and committed PracticeBasics.java to GitHub with applied concepts.
+
 
   
 ## Notes
