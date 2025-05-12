@@ -22,10 +22,25 @@ public class StudentGradeCalculator {
         int total = mark1 + mark2 + mark3;
         double average = total / 3.0;
 
+
+        // Determine grade
+        String grade;
+        if (average >= 90) {
+            grade = "A";
+        } else if (average >= 75) {
+            grade = "B";
+        } else if (average >= 60) {
+            grade = "C";
+        } else {
+            grade = "Fail";
+        }
+
         // Print result
         System.out.println("\n--- Report Card ---");
         System.out.println("Student Name: " + name);
         System.out.println("Total Marks: " + total);
         System.out.println("Average: " + average);
+        System.out.println("Grade: " + grade);
     }
 }
+
