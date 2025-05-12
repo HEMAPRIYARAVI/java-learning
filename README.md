@@ -85,6 +85,15 @@ Here’s what I’ve completed so far to get started:
 - Upgraded my ExpenseTracker project to support 3 expenses, total calculation, budget check, and status using ternary logic.
 - Committed ExpenseTrackerV2.java to GitHub.
 
+✅ May 9, 2025 – Progress Update
+- Revisited Java basics after a 3-day break.
+- Completed videos on operators and functions from Great Learning and Telusko playlists.
+- Practiced all covered concepts in a mini project.
+- Built and uploaded StudentGradeCalculator.java:
+- Took user input (name and marks).
+- Calculated total, average, and grade using conditional logic.
+- Strengthened understanding of conditionals and arithmetic operations.
+
 
   
 ## Notes
