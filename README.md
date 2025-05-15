@@ -94,6 +94,45 @@ Here’s what I’ve completed so far to get started:
 - Calculated total, average, and grade using conditional logic.
 - Strengthened understanding of conditionals and arithmetic operations.
 
+✅ May 13,14, 2025 – Progress Update
+
+- # 🏦 Smart ATM – Mini Java Project
+
+A simple console-based ATM simulation project built using core Java concepts.
+
+## 📌 Project Overview
+
+This project mimics a basic ATM machine where users can log in, check their account balance, deposit money, or withdraw money. It’s built entirely using Java fundamentals without external libraries, making it beginner-friendly.
+
+---
+
+## 🔑 Features
+
+- ✅ **Password Login Simulation** – Users must enter a correct password to access the ATM.
+- ✅ **Check Balance** – Displays the current account balance.
+- ✅ **Deposit** – Adds money to the account with a maximum deposit limit of ₹50,000.
+- ✅ **Withdraw** – Allows withdrawal with a maximum limit of ₹10,000, only if balance is sufficient.
+- ❌ **(Skipped)** Transaction history – This feature will be added after learning LinkedLists.
+
+---
+
+## 💡 Concepts Used
+
+- `Scanner` for input handling
+- `while` loops for menu navigation
+- `switch-case` for menu selection
+- `if-else` for logic decisions
+- Variables and data types (`double`, `boolean`, `int`)
+- Basic input validation and user feedback
+
+## 📘 What I Learned
+
+- Writing clean, structured code using Java basics.
+- Using control flow structures effectively in a real-world scenario.
+- Handling user input and validations.
+- Designing a project with a user-friendly experience in the console.
+
+
 
   
 ## Notes
