@@ -132,7 +132,7 @@ This project mimics a basic ATM machine where users can log in, check their acco
 - Handling user input and validations.
 - Designing a project with a user-friendly experience in the console.
 
-Date: May 18, 2025
+Date: May 16, 2025
 Project Name: CalculatorDemo
 Description:
 -A simple Java program demonstrating method overloading.
@@ -163,6 +163,19 @@ Topics covered:
 | ------------ | --------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
 | May 18, 2025 | ✅ CalculatorDemo program                      | Method Overloading, Class & Objects, Method Signatures     | Understood how to overload methods for different data types (int & double). Fixed common syntax errors.       |
 | May 18, 2025 | ✅ Smart Grocery Billing System (Mini Project) | Loops, Conditionals, Switch-Case, Method Calls, User Input | Built a real-world billing system. Practiced menu-driven structure, calculations & user-friendly interaction. |
+
+## Progress Update (May 17, 2025)
+
+- Completed development of **SmartFoodOrdering System**:
+  - Displayed a clear food menu with prices
+  - Allowed users to order multiple items with quantity input
+  - Implemented input validation for menu choices
+  - Calculated subtotal, applied 5% tax, and displayed the total bill
+- Applied concepts from previous learning:
+  - Arrays, loops, conditionals, method usage, and user input
+- Improved code structure for better readability and user experience
+
+This marks a major milestone in consolidating Java fundamentals into a practical mini project.
 
 
 ## Notes
