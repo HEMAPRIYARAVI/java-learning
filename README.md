@@ -132,9 +132,39 @@ This project mimics a basic ATM machine where users can log in, check their acco
 - Handling user input and validations.
 - Designing a project with a user-friendly experience in the console.
 
+Date: May 18, 2025
+Project Name: CalculatorDemo
+Description:
+-A simple Java program demonstrating method overloading.
+-Includes methods to add both integers and double values.
+-Helps understand concepts of method signature, compile-time polymorphism, and basic class structure.
+
+Topics covered:
+-Method overloading (int and double addition).
+-Class & object creation.
+-Calling methods with different parameter types.
+-Basic syntax corrections & good coding practices.
+
+Project Name: Smart Grocery Billing System
+Description:
+-A mini project built using Java console application.
+-Simulates a simple grocery store billing system.
+-User can select items, enter quantity, and get the final bill.
+-Focuses on real-world use of loops, conditionals, switch-case, method overloading, and user input handling.
+
+Topics covered:
+-Menu-driven program structure.
+-Switch-case for item selection.
+-Loops for multiple item entries.
+-User-friendly input & output display.
+-Total amount calculation logic.
+
+| Date         | Task Completed                                | Concepts Practiced                                         | Notes                                                                                                         |
+| ------------ | --------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| May 18, 2025 | ✅ CalculatorDemo program                      | Method Overloading, Class & Objects, Method Signatures     | Understood how to overload methods for different data types (int & double). Fixed common syntax errors.       |
+| May 18, 2025 | ✅ Smart Grocery Billing System (Mini Project) | Loops, Conditionals, Switch-Case, Method Calls, User Input | Built a real-world billing system. Practiced menu-driven structure, calculations & user-friendly interaction. |
 
 
-  
 ## Notes
 
 This repo is mostly for me to stay consistent and motivated. Hoping to improve little by little every week.
