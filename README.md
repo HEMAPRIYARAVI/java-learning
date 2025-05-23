@@ -178,6 +178,55 @@ Topics covered:
 This marks a major milestone in consolidating Java fundamentals into a practical mini project.
 
 
+## Progress Update  (May 22, 2025)
+
+hese are focused Java programs demonstrating specific OOP and core Java concepts:
+
+| 🔢 File Name               | 📌 Concept Covered                                      |
+|---------------------------|--------------------------------------------------------|
+| `AccessModifiers.java`    | Access modifiers: `public`, `private`, `protected`, default |
+| `PolymorphismDemo.java`   | Method overloading and method overriding (Polymorphism) |
+| `DynamicDispatchDemo.java`| Runtime polymorphism with dynamic method dispatch       |
+| `FinalKeywordDemo.java`   | Usage of `final` with variables, methods, and classes  |
+
+➡️ These files are meant for revision and interview preparation.
+
+---
+
+## 🎬 Mini Project: `MovieTicketBookingApp/`
+
+A simple CLI-based movie ticket booking application.
+
+**Concepts applied:**
+- Classes & Objects
+- Constructors
+- Encapsulation
+- Arrays
+- Conditional logic
+
+📂 Located in the `MovieTicketBookingApp/` folder.
+
+---
+
+## 🛠 Tools Used
+
+- Java 17
+- IntelliJ IDEA
+- Git & GitHub
+
+---
+
+## ✍️ Learning Approach
+
+- 🎥 Watching Telusko’s Java video series
+- 📝 Taking notes and coding along
+- 💻 Creating demo programs after learning each concept
+- 🚀 Pushing reviewed code to GitHub
+
+---
+
+
+
 ## Notes
 
 This repo is mostly for me to stay consistent and motivated. Hoping to improve little by little every week.
