@@ -34,3 +34,20 @@ This file demonstrates the usage of `enum` in Java, including:
 #### 💡 Sample Output:
 ```bash
 FRIDAY: It's almost weekend!
+
+### ✅ TaskManager.java
+
+A simple Java program demonstrating:
+
+- ✅ Enum usage for task priorities (`LOW`, `MEDIUM`, `HIGH`)
+- ✅ Functional interface and lambda expression (`TaskAction`)
+- ✅ Object-oriented design with a `Task` class
+- ✅ Managing a list of tasks and performing actions on them
+
+**Concepts Covered**:
+- Enum
+- Functional Interface (`@FunctionalInterface`)
+- Lambda Expressions (Java 8 feature)
+- OOP: Classes, Objects, Methods
+- Collection: `ArrayList`
+
