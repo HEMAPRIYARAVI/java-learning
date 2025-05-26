@@ -60,4 +60,21 @@ A complete demo that covers:
 - Custom Exception (`InvalidOrderException`)
 - `throw` keyword for manual exception throwing
 
+## 🗂️ Task Planner (Mini Project)
+
+This mini project demonstrates the use of:
+
+- `enum` for task status and priority
+- Functional interface for filtering tasks
+- Lambda expressions for clean and concise filters
+- Object-oriented principles (classes, encapsulation)
+
+### Classes & Enums:
+- `TaskStatus` – Enum for task states (PENDING, IN_PROGRESS, COMPLETED)
+- `TaskPriority` – Enum for task importance (LOW, MEDIUM, HIGH)
+- `Task` – Model class with fields and `toString()` override
+- `TaskFilter` – Functional interface for filtering logic
+- `TaskManager` – Main class that creates and filters tasks using lambdas
+
+
 
