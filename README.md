@@ -51,3 +51,13 @@ A simple Java program demonstrating:
 - OOP: Classes, Objects, Methods
 - Collection: `ArrayList`
 
+### ✅ OrderProcessingDemo.java
+A complete demo that covers:
+
+- Lambda Expressions
+- Functional Interface
+- Try-Catch Exception Handling
+- Custom Exception (`InvalidOrderException`)
+- `throw` keyword for manual exception throwing
+
+
