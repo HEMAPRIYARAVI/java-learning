@@ -224,6 +224,20 @@ A simple CLI-based movie ticket booking application.
 - 🚀 Pushing reviewed code to GitHub
 
 ---
+### 🎓 Student Management Console App
+
+This project allows users to:
+
+- Add students with ID, name, and course.
+- View a list of all students.
+- Search for a student by ID.
+
+Key Java concepts used:
+- OOP: Classes, Objects, Encapsulation
+- Collections: ArrayList
+- Console Input using Scanner
+- Packages and modular design
+
 
 
 
